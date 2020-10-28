@@ -1,6 +1,6 @@
 var config = {
     style: 'mapbox://styles/mongabay/ckeogv8t81ff619mx5jl1yshj',
-    accessToken: ***REMOVED***,
+    accessToken: 'REPLACE_WITH_MAPBOX_TOKEN',
     showMarkers: false,
     theme: 'dark',
     alignment: 'left',
